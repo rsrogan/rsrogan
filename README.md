@@ -1,5 +1,5 @@
 # 💫 About Me:
-bugbounty hunting<br><br>I am looking forward to collabrate with other hunters<br><br>I am looking for help with ehtical hacking and bug bounty<br><br>am currently learning python automation and scripting <br><br>ask about me bug hunting beginner guide and sources<br><br><br>fun fact i love tech
+bugbounty hunting<br><br>I am looking forward to collabrate with other hunters<br><br>I am looking for help with ehtical hacking and bug bounty<br><br>I am currently learning python automation and scripting <br><br><br>fun with tech
 
 
 ## 🌐 Socials:
